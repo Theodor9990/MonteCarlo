@@ -18,7 +18,7 @@ Poro_Z = [0.091, 0.137, 0.157]
 Sw_Z = [0.4, 0.299, 0.488]
 Thickness_Z = [36, 14.75, 11.5]
 Vclay_Z = [0.037, 0.086, 0.096]
-Area_Z = [11.51, 15.93, 17.52]
+Area_Z = [11.51, 15.93, 17.52]    #in km^2
 Bo_Z = [1.23, 1.35, 1.16]
 
 ft3_to_barrel_conversion = 0.2374768089 #constant used in calculations to convert ft^3 to oil bbl.
